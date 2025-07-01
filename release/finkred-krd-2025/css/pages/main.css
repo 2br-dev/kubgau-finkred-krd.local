@@ -427,12 +427,13 @@ section#info .info-card#card3 {
     transform: translatey(3vw);
     transition: transform 0.6s, opacity 0.6s;
     opacity: 0;
-    padding-bottom: 35%;
+    padding-bottom: 25%;
+    padding-right: 50%;
 }
 
 @media (max-width: 900px) {
     section#info .info-card#card3 {
-        padding-bottom: 60%;
+        padding-bottom: 20%;
     }
 }
 
